@@ -2,7 +2,7 @@
 
 [![WordPress](https://img.shields.io/badge/WordPress-6.8+-blue.svg)](https://wordpress.org/)
 [![PHP](https://img.shields.io/badge/PHP-8.2+-green.svg)](https://php.net/)
-[![License](https://img.shields.io/badge/License-GPL%20v2%20or%20later-green.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
+[![License](https://img.shields.io/badge/License-GPL%20v3%20or%20later-green.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 
 A modern, accessible WordPress theme designed specifically for academic publishers, research institutions, and scholarly content creators. Built with Secure Custom Fields (SCF) for flexible content management, featuring a custom author post type for detailed contributor information and support for multiple authors, Ajax Load More functionality for seamless content pagination, customizable citations and licenses, and plugin support for footnotes, tables, and Mastodon feed. 
 
